@@ -18,3 +18,9 @@ while (j <= 10) {
 }
 
 //third progrma
+var k = 0;
+while (k <= 10) {
+	// statement
+	console.log(k);
+	k += 2;	//meaning k = k+2;
+}
