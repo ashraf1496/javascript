@@ -24,3 +24,16 @@ while (k <= 10) {
 	console.log(k);
 	k += 2;	//meaning k = k+2;
 }
+
+//Fourth program
+
+var h = 0;
+while (true) {
+	// statement
+	console.log('value of h is ',h);
+	if (10 == h) {
+		break;
+	}
+	h++;
+}
+
