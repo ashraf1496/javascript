@@ -27,3 +27,5 @@ for(var i =1; i<= 10; i++){
 	factorial *= i;
 	console.log('factorial of',i,'is',factorial);
 }
+
+//n.b: NaN = Not a Number 
