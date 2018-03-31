@@ -57,4 +57,4 @@ while (i <= 100) {
       sum += x;
       }
     }
-    console.log("total of 0 to 50 even number is",sum);
+    console.log("total of 1 to 50 even number is",sum);
