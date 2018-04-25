@@ -1,1 +1,0 @@
-var fruiits = ["banan","mango","orange"];
